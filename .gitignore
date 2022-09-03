@@ -1,0 +1,5 @@
+log/
+node_modules/
+tests.zip
+npm_install_debug.log
+results/
