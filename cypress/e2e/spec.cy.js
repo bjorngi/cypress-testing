@@ -15,5 +15,7 @@ describe("skatteetaten.no home page", () => {
   // 1. Gå til siden "Ledige jobber"
   // 2. Fyll inn "skattejurist" i søkefelt
   // 3. Se at listen inneholder 3 elementer
-  it("should have 3 positions for skattejurist", () => {});
+  it("should have 3 positions for skattejurist", () => {
+    throw new Error("denne er visst ikke implementert")
+  });
 });
